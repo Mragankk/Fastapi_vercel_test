@@ -7,4 +7,4 @@ def read_root():
     return {"message": "Hello, World from FastAPI on Vercel!"}
 
 
-# vercel app deployed on- https://fastapivercel-3flnuny2j-mragank-s-projects.vercel.app/
+# vercel app deployed on- https://fastapi-vercel-test-chq45dns7-mragank-gautams-projects.vercel.app
